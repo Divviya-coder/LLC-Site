@@ -28,11 +28,11 @@ const Menu = ({ single, menu }) => {
   const singleMenu = menu
     ? menu
     : [
-        { id: 1, href: "about", title: "About" },
-        { id: 2, href: "services", title: "Services" },
-        { id: 3, href: "team", title: "Team" },
-        { id: 4, href: "blog", title: "Blog" },
-      ];
+      { id: 1, href: "about", title: "About" },
+      { id: 2, href: "services", title: "Services" },
+      { id: 3, href: "team", title: "Team" },
+      { id: 4, href: "blog", title: "Blog" },
+    ];
   return (
     <Fragment>
       {single ? (
@@ -43,7 +43,7 @@ const Menu = ({ single, menu }) => {
                 Home
                 <i className="fas fa-angle-down" />
               </Link>
-              <ul className="submenu has-homemenu">
+              {/* <ul className="submenu has-homemenu">
                 <li className="border-none">
                   <div className="row g-4">
                     <div className="col-xl-2 homemenu">
@@ -144,7 +144,7 @@ const Menu = ({ single, menu }) => {
                     </div>
                   </div>
                 </li>
-              </ul>
+              </ul> */}
             </li>
             <li className="has-dropdown active d-xl-none">
               <Link href="/" className="border-none">
@@ -185,9 +185,9 @@ const Menu = ({ single, menu }) => {
             <li className="has-dropdown active menu-thumb">
               <Link href="/">
                 Home
-                <i className="fas fa-angle-down" />
+                {/* <i className="fas fa-angle-down" /> */}
               </Link>
-              <ul className="submenu has-homemenu">
+              {/* <ul className="submenu has-homemenu">
                 <li className="border-none">
                   <div className="row g-4">
                     <div className="col-xl-2 homemenu">
@@ -288,9 +288,9 @@ const Menu = ({ single, menu }) => {
                     </div>
                   </div>
                 </li>
-              </ul>
+              </ul> */}
             </li>
-            <li className="has-dropdown active d-xl-none">
+            {/* <li className="has-dropdown active d-xl-none">
               <Link href="/" className="border-none">
                 Home
                 <i className="fas fa-angle-down" />
@@ -315,30 +315,30 @@ const Menu = ({ single, menu }) => {
                   <Link href="index-6">Home 06</Link>
                 </li>
               </ul>
+            </li> */}
+            <li>
+              <Link href="whoweare">Who We Are</Link>
             </li>
             <li>
-              <Link href="about">About</Link>
-            </li>
-            <li>
-              <Link href="service-details">
-                Services
-                <i className="fas fa-angle-down" />
+              <Link href="whatwedo">
+                What We DO
+                {/* <i className="fas fa-angle-down" /> */}
               </Link>
-              <ul className="submenu">
+              {/* <ul className="submenu">
                 <li>
                   <Link href="service">Services</Link>
                 </li>
                 <li>
                   <Link href="service-details">Service Details</Link>
                 </li>
-              </ul>
+              </ul> */}
             </li>
             <li className="has-dropdown">
-              <Link href="news">
-                Pages
-                <i className="fas fa-angle-down" />
+              <Link href="ourindustries">
+                Our Industries
+                {/* <i className="fas fa-angle-down" /> */}
               </Link>
-              <ul className="submenu">
+              {/* <ul className="submenu">
                 <li className="has-dropdown">
                   <Link href="project-details">
                     Projects
@@ -373,24 +373,24 @@ const Menu = ({ single, menu }) => {
                 <li>
                   <Link href="404">404 Page</Link>
                 </li>
-              </ul>
+              </ul> */}
             </li>
             <li>
-              <Link href="news">
-                Blog
-                <i className="fas fa-angle-down" />
+              <Link href="ourpartners">
+                Our Partners
+                {/* <i className="fas fa-angle-down" /> */}
               </Link>
-              <ul className="submenu">
+              {/* <ul className="submenu">
                 <li>
                   <Link href="news">Blog </Link>
                 </li>
                 <li>
                   <Link href="news-details">Blog Details</Link>
                 </li>
-              </ul>
+              </ul> */}
             </li>
             <li>
-              <Link href="contact">Contact</Link>
+              <Link href="contact">Contact Us</Link>
             </li>
           </ul>
         </nav>
@@ -403,21 +403,21 @@ const MobileMenu = ({ single, menu }) => {
   const [activeMenu, setActiveMenu] = useState("");
   const [multiMenu, setMultiMenu] = useState("");
   const activeMenuSet = (value) =>
-      setActiveMenu(activeMenu === value ? "" : value),
+    setActiveMenu(activeMenu === value ? "" : value),
     activeLi = (value) =>
       value === activeMenu ? { display: "block" } : { display: "none" };
   const multiMenuSet = (value) =>
-      setMultiMenu(multiMenu === value ? "" : value),
+    setMultiMenu(multiMenu === value ? "" : value),
     multiMenuActiveLi = (value) =>
       value === multiMenu ? { display: "block" } : { display: "none" };
   const singleMenu = menu
     ? menu
     : [
-        { id: 1, href: "about", title: "About" },
-        { id: 2, href: "services", title: "Services" },
-        { id: 3, href: "team", title: "Team" },
-        { id: 4, href: "blog", title: "Blog" },
-      ];
+      { id: 1, href: "about", title: "About" },
+      { id: 2, href: "services", title: "Services" },
+      { id: 3, href: "team", title: "Team" },
+      { id: 4, href: "blog", title: "Blog" },
+    ];
   return (
     <div className="mobile-menu fix mb-3 mean-container d-block d-xl-none">
       <div className="mean-bar">
@@ -791,7 +791,7 @@ const Header2 = ({ single }) => {
                   </div>
                 </div>
               </div>
-              <div className="header-right d-flex justify-content-end align-items-center">
+              {/* <div className="header-right d-flex justify-content-end align-items-center">
                 <div className="header-button">
                   <Link href="contact" className="theme-btn bg-2">
                     Get A Quote
@@ -805,7 +805,7 @@ const Header2 = ({ single }) => {
                     <i className="far fa-bars" />
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
@@ -859,11 +859,11 @@ const Header3 = ({ single }) => {
                     </h4>
                   </div>
                 </div>
-                <div className="header-button">
+                {/* <div className="header-button">
                   <Link href="contact" className="theme-btn bg-2">
                     Get A Quote
                   </Link>
-                </div>
+                </div> */}
                 <div className="header__hamburger d-xl-none my-auto">
                   <div
                     className="sidebar__toggle"
@@ -965,7 +965,7 @@ const Header6 = ({ single }) => {
                   </div>
                 </div>
               </div>
-              <div className="header-right d-flex justify-content-end align-items-center">
+              {/* <div className="header-right d-flex justify-content-end align-items-center">
                 <div className="header-button">
                   <Link href="contact" className="theme-btn bg-2">
                     Get A Quote
@@ -979,7 +979,7 @@ const Header6 = ({ single }) => {
                     <i className="far fa-bars" />
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

@@ -29,7 +29,7 @@ const Faq = () => {
                         aria-expanded="false"
                         aria-controls="faq1"
                       >
-                        Why Need Digital Marketing For Build Business ?
+                        Why do I need business consulting to grow my company?
                       </button>
                     </h4>
                     <div
@@ -38,10 +38,7 @@ const Faq = () => {
                       data-bs-parent="#accordion"
                     >
                       <div className="accordion-body">
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudan tiueaque quae
-                        abillo inventore veritatis et quasi architecto beatae
-                        vitae dicta explicabo voluptatem voluptas aspernatur
+                        Strategic consulting provides expert insights and structured planning to help you identify opportunities, minimize risks, and accelerate growth effectively.
                       </div>
                     </div>
                   </div>
@@ -58,7 +55,7 @@ const Faq = () => {
                         aria-expanded="true"
                         aria-controls="faq2"
                       >
-                        How to Increase Web Traffic ?
+                        How does Keystone help increase operational efficiency?
                       </button>
                     </h4>
                     <div
@@ -67,10 +64,7 @@ const Faq = () => {
                       data-bs-parent="#accordion"
                     >
                       <div className="accordion-body">
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudan tiueaque quae
-                        abillo inventore veritatis et quasi architecto beatae
-                        vitae dicta explicabo voluptatem voluptas aspernatur
+                        Our consultants assess your existing processes, identify inefficiencies, and implement sustainable improvements that reduce waste and improve output.
                       </div>
                     </div>
                   </div>
@@ -87,7 +81,7 @@ const Faq = () => {
                         aria-expanded="false"
                         aria-controls="faq3"
                       >
-                        How to Development SEO Optimization ?
+                        What industries do you serve?
                       </button>
                     </h4>
                     <div
@@ -96,10 +90,7 @@ const Faq = () => {
                       data-bs-parent="#accordion"
                     >
                       <div className="accordion-body">
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudan tiueaque quae
-                        abillo inventore veritatis et quasi architecto beatae
-                        vitae dicta explicabo voluptatem voluptas aspernatur
+                        We work across sectors including finance, technology, healthcare, manufacturing, and energy — adapting strategies to fit each client’s specific context.
                       </div>
                     </div>
                   </div>
@@ -116,7 +107,7 @@ const Faq = () => {
                         aria-expanded="false"
                         aria-controls="faq4"
                       >
-                        Have Any Professional Team Member ?
+                        Do you provide long-term support after project delivery?
                       </button>
                     </h4>
                     <div
@@ -125,10 +116,7 @@ const Faq = () => {
                       data-bs-parent="#accordion"
                     >
                       <div className="accordion-body">
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudan tiueaque quae
-                        abillo inventore veritatis et quasi architecto beatae
-                        vitae dicta explicabo voluptatem voluptas aspernatur
+                        Yes. We offer post-project advisory and performance monitoring to ensure continued success and scalability.
                       </div>
                     </div>
                   </div>
@@ -145,7 +133,7 @@ const Faq = () => {
                         aria-expanded="false"
                         aria-controls="faq5"
                       >
-                        Have you any Global Customer ?
+                        Do you work with international clients?
                       </button>
                     </h4>
                     <div
@@ -154,10 +142,7 @@ const Faq = () => {
                       data-bs-parent="#accordion"
                     >
                       <div className="accordion-body">
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudan tiueaque quae
-                        abillo inventore veritatis et quasi architecto beatae
-                        vitae dicta explicabo voluptatem voluptas aspernatur
+                        Absolutely. Keystone Strategic Consultants LLC serves clients globally, leveraging cross-industry experience to deliver localized strategies with global standards.
                       </div>
                     </div>
                   </div>

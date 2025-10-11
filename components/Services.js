@@ -51,7 +51,7 @@ const Services = () => {
               </div>
               <div className="content">
                 <h3>
-                  <Link href="service-details">Social Media Marketing</Link>
+                  <Link href="service-details">What We Do</Link>
                 </h3>
                 <p>
                   Sed ut perspiciatis unde omnis iste natus error voluptatem

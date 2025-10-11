@@ -131,8 +131,7 @@ export const WorkingProcess2 = () => {
                   <div className="digit-box">01</div>
                   <h4>Market Research</h4>
                   <p>
-                    Quis autem vel eum iure reprehenderit qui in ea voluptate
-                    velit esse quam nihil molestiae
+                    We begin by understanding your business, market trends, and challenges to uncover actionable insights.
                   </p>
                 </div>
                 <div
@@ -142,8 +141,7 @@ export const WorkingProcess2 = () => {
                   <div className="digit-box">02</div>
                   <h4>Process and Analysis</h4>
                   <p>
-                    Quis autem vel eum iure reprehenderit qui in ea voluptate
-                    velit esse quam nihil molestiae
+                    Our experts conduct detailed assessments and identify strategic opportunities tailored to your goals.
                   </p>
                 </div>
                 <div
@@ -153,8 +151,7 @@ export const WorkingProcess2 = () => {
                   <div className="digit-box">03</div>
                   <h4>Successful Project</h4>
                   <p>
-                    Quis autem vel eum iure reprehenderit qui in ea voluptate
-                    velit esse quam nihil molestiae
+                    We collaborate closely with your team to execute strategies effectively and ensure lasting business results.
                   </p>
                 </div>
               </div>

@@ -1,25 +1,9 @@
 import Link from "next/link";
 
 const Footer = ({ footer }) => {
-  switch (footer) {
-    case 1:
-      return <Footer1 />;
 
-    case 2:
-      return <Footer2 />;
+  return <Footer4 />;
 
-    case 3:
-      return <Footer3 />;
-
-    case 4:
-      return <Footer4 />;
-
-    case 6:
-      return <Footer6 />;
-
-    default:
-      return <Footer1 />;
-  }
 };
 export default Footer;
 

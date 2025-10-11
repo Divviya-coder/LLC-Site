@@ -11,16 +11,14 @@ export const TestimonialSlider1 = () => {
         <SwiperSlide className="swiper-slide">
           <div className="testimonial-content">
             <p>
-              We denounce with right indignation dislike men who are so beguile
-              and demoralized by the charms of pleasure of the moment, so
-              blinded by desire cannot foresee
+              Partnering with Keystone transformed the way we engage with enterprise clients. Their strategic clarity and collaborative approach are unmatched.
             </p>
             <div className="author-items">
               <div className="author-image">
                 <img src="assets/img/testimonial/client.png" alt="author-img" />
                 <div className="content">
                   <h5>
-                    Lucas J. Swe / <span>CO Founder</span>
+                    Jonathan K. Pierce, <span>Director at BluePeak Analytics      </span>
                   </h5>
                 </div>
               </div>
@@ -31,16 +29,14 @@ export const TestimonialSlider1 = () => {
         <SwiperSlide className="swiper-slide">
           <div className="testimonial-content">
             <p>
-              We denounce with right indignation dislike men who are so beguile
-              and demoralized by the charms of pleasure of the moment, so
-              blinded by desire cannot foresee
+              Keystone’s expertise in operational strategy made our joint projects not only successful but scalable. They truly understand partnership.
             </p>
             <div className="author-items">
               <div className="author-image">
                 <img src="assets/img/testimonial/client.png" alt="author-img" />
                 <div className="content">
                   <h5>
-                    Lucas J. Swe / <span>CO Founder</span>
+                    Alicia R. Monroe, <span>VP of Strategy at AccuraTech Solutions</span>
                   </h5>
                 </div>
               </div>
@@ -48,46 +44,7 @@ export const TestimonialSlider1 = () => {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-content">
-            <p>
-              We denounce with right indignation dislike men who are so beguile
-              and demoralized by the charms of pleasure of the moment, so
-              blinded by desire cannot foresee
-            </p>
-            <div className="author-items">
-              <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
-                <div className="content">
-                  <h5>
-                    Lucas J. Swe / <span>CO Founder</span>
-                  </h5>
-                </div>
-              </div>
-              <img src="assets/img/testimonial/icon.png" alt="img" />
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-content">
-            <p>
-              We denounce with right indignation dislike men who are so beguile
-              and demoralized by the charms of pleasure of the moment, so
-              blinded by desire cannot foresee
-            </p>
-            <div className="author-items">
-              <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
-                <div className="content">
-                  <h5>
-                    Lucas J. Swe / <span>CO Founder</span>
-                  </h5>
-                </div>
-              </div>
-              <img src="assets/img/testimonial/icon.png" alt="img" />
-            </div>
-          </div>
-        </SwiperSlide>
+
       </div>
       <div className="swiper-dot pt-5 ps-1">
         <div className="dot" />
@@ -118,8 +75,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
                 </div>
               </div>
               <p>
-                We denounce with righteous indignation and dislike men who are
-                so beguiled demoralized by the charms of pleasure of the moment
+                Keystone helped us align our strategy and operations seamlessly. Their insights and commitment were instrumental in driving growth.
               </p>
               <div className="star">
                 <i className="fas fa-star" />
@@ -146,8 +102,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
                 </div>
               </div>
               <p>
-                We denounce with righteous indignation and dislike men who are
-                so beguiled demoralized by the charms of pleasure of the moment
+                Working with Keystone was a game-changer. Their team’s professionalism and clarity in execution made a lasting impact.
               </p>
               <div className="star">
                 <i className="fas fa-star" />
@@ -174,8 +129,8 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
                 </div>
               </div>
               <p>
-                We denounce with righteous indignation and dislike men who are
-                so beguiled demoralized by the charms of pleasure of the moment
+                Keystone helped us align our strategy and operations seamlessly. Their insights and commitment were instrumental in driving growth.
+
               </p>
               <div className="star">
                 <i className="fas fa-star" />
@@ -202,8 +157,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
                 </div>
               </div>
               <p>
-                We denounce with righteous indignation and dislike men who are
-                so beguiled demoralized by the charms of pleasure of the moment
+                Working with Keystone was a game-changer. Their team’s professionalism and clarity in execution made a lasting impact.
               </p>
               <div className="star">
                 <i className="fas fa-star" />
