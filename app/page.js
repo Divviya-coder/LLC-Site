@@ -23,14 +23,14 @@ const page = () => {
                   Empowering Business Growth With Strategic Excellence
                 </h1>
                 <p className="wow fadeInUp" data-wow-delay=".5s">
-                Keystone Strategic Consultants LLC helps organizations unlock potential, drive innovation, and achieve sustainable success through expert strategy and business insight.
+                  Keystone Strategic Consultants LLC helps organizations unlock potential, drive innovation, and achieve sustainable success through expert strategy and business insight.
                 </p>
                 <div className="about-author">
                   <div
                     className="about-button wow fadeInUp"
                     data-wow-delay=".3s"
                   >
-                    <Link href="about" className="theme-btn">
+                    <Link href="whoweare" className="theme-btn">
                       Learn More
                       <i className="fas fa-long-arrow-right" />
                     </Link>
@@ -45,8 +45,8 @@ const page = () => {
                     />
                     <div className="content">
                       <h6>
-                      Trusted by 1M+ clients <br/>
-                      around the world
+                        Trusted by 1M+ clients <br />
+                        around the world
                       </h6>
                     </div>
                   </div>
@@ -89,7 +89,7 @@ const page = () => {
                       Who We Are
                     </span>
                     <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                    We Have an Experienced Team to Lead Your Business
+                      We Have an Experienced Team to Lead Your Business
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
@@ -112,7 +112,7 @@ const page = () => {
                     className="about-button wow fadeInUp"
                     data-wow-delay=".5s"
                   >
-                    <Link href="about" className="theme-btn bg-2">
+                    <Link href="whoweare" className="theme-btn bg-2">
                       Learn More Us
                       <i className="far fa-arrow-right" />
                     </Link>
@@ -136,16 +136,16 @@ const page = () => {
           <div className="section-title text-center">
             <span className="sub-content wow fadeInUp">
               <img src="assets/img/bale.png" alt="img" />
-              Our Parnters 
+              Our Parnters
             </span>
             <h2 className="wow fadeInUp" data-wow-delay=".5s">
-            Trusted by 500+ Global Businesses for Strategic Growth
+              Trusted by 500+ Global Businesses for Strategic Growth
             </h2>
           </div>
         </div>
         <TestimonialSlider2 />
       </section>
-     
+
       {/* Contact Section Start */}
       <section className="contact-section fix section-padding pt-0 fix">
         <div className="pattern-shape">
@@ -170,18 +170,18 @@ const page = () => {
                   Contact Us
                 </span>
                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                Ready to Elevate Your Business Strategy?
+                  Ready to Elevate Your Business Strategy?
                 </h2>
               </div>
               <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-              We help organizations unlock growth, improve performance, and build sustainable success through proven strategic consulting and execution.<br/>Let’s turn your vision into measurable results.
+                We help organizations unlock growth, improve performance, and build sustainable success through proven strategic consulting and execution.<br />Let’s turn your vision into measurable results.
               </p>
               <Link
                 href="contact"
                 className="theme-btn mt-4 wow fadeInUp"
                 data-wow-delay=".3s"
               >
-                Get A Quote
+                Contact Us
                 <i className="far fa-arrow-right" />
               </Link>
             </div>

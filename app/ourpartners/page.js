@@ -90,7 +90,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Eduardo D. Howard</Link>
+                    {/* <Link href="team-details"> */}
+                    Eduardo D. Howard
+                    {/* </Link> */}
                   </h4>
                   <p>CEO &amp; Founder</p>
                 </div>
@@ -130,7 +132,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Jeremiah D. Marshall</Link>
+                    {/* <Link href="team-details"> */}
+                    Jeremiah D. Marshall
+                    {/* </Link> */}
                   </h4>
                   <p>Business Consultant</p>
                 </div>
@@ -170,7 +174,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Jeremy B. Forsberg</Link>
+                    {/* <Link href="team-details"> */}
+                    Jeremy B. Forsberg
+                    {/* </Link> */}
                   </h4>
                   <p>Senior Manager</p>
                 </div>
@@ -210,7 +216,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Duane V. McCormick</Link>
+                    {/* <Link href="team-details"> */}
+                    Duane V. McCormick
+                    {/* </Link> */}
                   </h4>
                   <p>Junior Consultant</p>
                 </div>
@@ -250,7 +258,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">James H. Richardson</Link>
+                    {/* <Link href="team-details"> */}
+                    James H. Richardson
+                    {/* </Link> */}
                   </h4>
                   <p>Digital Marketer</p>
                 </div>
@@ -290,7 +300,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Duane V. McCormick</Link>
+                    {/* <Link href="team-details"> */}
+                    Duane V. McCormick
+                    {/* </Link> */}
                   </h4>
                   <p>Junior Consultant</p>
                 </div>
@@ -330,7 +342,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Wayne D. Rodriguez</Link>
+                    {/* <Link href="team-details"> */}
+                    Wayne D. Rodriguez
+                    {/* </Link> */}
                   </h4>
                   <p>JWeb Developer</p>
                 </div>
@@ -370,7 +384,9 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <h4>
-                    <Link href="team-details">Theodore E. Johnson</Link>
+                    {/* <Link href="team-details"> */}
+                    Theodore E. Johnson
+                    {/* </Link> */}
                   </h4>
                   <p>Manager</p>
                 </div>

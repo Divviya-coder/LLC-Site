@@ -835,6 +835,7 @@ const Header3 = ({ single }) => {
         <div className="container-fluid">
           <div className="mega-menu-wrapper">
             <div className="header-main">
+
               <div className="sticky-logo">
                 <Link href="/">
                   <img src="assets/img/logo/black-logo.svg" alt="logo-img" />

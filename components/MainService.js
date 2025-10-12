@@ -42,16 +42,16 @@ const MainService = () => {
                         className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
                         data-wow-delay=".5s"
                     >
-                        <div className="service-box-items active">
+                        <div className="service-box-items">
                             <div className="icon">
-                                <i className="flaticon-social-media" />
+                                <i className="flaticon-software-development" />
                             </div>
                             <div className="content">
                                 <h3>
-                                    <Link href="service-details">Operational Excellence</Link>
+                                    <Link href="service-details">Market Research & Business Intelligence</Link>
                                 </h3>
                                 <p>
-                                    Optimize workflows, eliminate inefficiencies, and implement scalable solutions to drive productivity and profitability.
+                                    Turn insights into strategy. Our research and data analytics services help you understand your market, competitors, and growth potential.
                                 </p>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ const MainService = () => {
                                     <Link href="service-details">Digital Transformation</Link>
                                 </h3>
                                 <p>
-                                    Leverage emerging technologies, data analytics, and automation to modernize operations and create digital-first organizations.
+                                    Leverage emerging technologies, data analytics, and automation to modernize business operations, enhance decision-making, and create agile, digital-first organizations for sustainable growth.
                                 </p>
                             </div>
                         </div>
@@ -92,20 +92,21 @@ const MainService = () => {
                             </div>
                         </div>
                     </div>
+
                     <div
                         className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
                         data-wow-delay=".5s"
                     >
-                        <div className="service-box-items">
+                        <div className="service-box-items active">
                             <div className="icon">
-                                <i className="flaticon-software-development" />
+                                <i className="flaticon-social-media" />
                             </div>
                             <div className="content">
                                 <h3>
-                                    <Link href="service-details">Market Research & Business Intelligence</Link>
+                                    <Link href="service-details">Operational Excellence</Link>
                                 </h3>
                                 <p>
-                                    Turn insights into strategy. Our research and data analytics services help you understand your market, competitors, and growth potential.
+                                    Optimize workflows, eliminate inefficiencies, and implement scalable solutions to drive productivity and profitability.
                                 </p>
                             </div>
                         </div>

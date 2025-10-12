@@ -17,14 +17,12 @@ const page = () => {
                       Contact Us
                     </span>
                     <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                      Don’t Hessite to Contact <br />
-                      Our Team Member
+                      Ready to Elevate Your Business Strategy?
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                    Sed ut perspiciatis unde omnis iste natus error voluptatem
-                    accusantium <br />
-                    doloremque laudantium, totam rem aperiam
+                    We help organizations unlock growth, improve performance, and build sustainable success through proven strategic consulting and execution.
+                    Let’s turn your vision into measurable results.
                   </p>
                   <ul
                     className="contact-list wow fadeInUp"
@@ -111,11 +109,12 @@ const page = () => {
         <div className="map-items">
           <div className="googpemap">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6678.7619084840835!2d144.9618311901502!3d-37.81450084255415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b4758afc1d%3A0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.469032745026!2d77.5946!3d12.9716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c0c3f2c9%3A0xabc1234567890!2sYour%20Company%20Name!5e0!3m2!1sen!2sin!4v1697036400000!5m2!1sen!2sin"
               style={{ border: 0 }}
               allowFullScreen=""
               loading="lazy"
             />
+
           </div>
         </div>
       </div>

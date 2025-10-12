@@ -35,6 +35,21 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/whoweare/page.js"
+    ],
+    "/team-details/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/team-details/page.js"
+    ],
+    "/ourindustries/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/ourindustries/page.js"
+    ],
+    "/whatwedo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/whatwedo/page.js"
     ]
   }
 }

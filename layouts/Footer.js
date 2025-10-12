@@ -38,8 +38,7 @@ const Footer1 = () => {
                 </div>
                 <div className="footer-content">
                   <p>
-                    Sed perspiciatis unde omnis natus doloremque laudantium
-                    totae
+                    Empowering organizations with strategic insight, innovation, and sustainable growth.
                   </p>
                   <div className="social-icon d-flex align-items-center">
                     <a href="#">
@@ -566,8 +565,7 @@ const Footer4 = () => {
                 </div>
                 <div className="footer-content">
                   <p>
-                    Sed perspiciatis unde omnis natus doloremque laudantium
-                    totae
+                    Empowering organizations with strategic insight, innovation, and sustainable growth.
                   </p>
                   <div className="social-icon d-flex align-items-center">
                     <a href="#">
@@ -596,16 +594,16 @@ const Footer4 = () => {
                 </div>
                 <ul className="list-items">
                   <li>
-                    <Link href="service-details">Popular Services</Link>
+                    <Link href="whoweare">Who We Are</Link>
                   </li>
                   <li>
-                    <Link href="team-details">Team Member</Link>
+                    <Link href="whatewedo">What We Do</Link>
                   </li>
                   <li>
-                    <Link href="contact">Privacy &amp; Setting</Link>
+                    <Link href="ourindustries">Our Industries</Link>
                   </li>
                   <li>
-                    <Link href="pricing">Pricing Package</Link>
+                    <Link href="ourpartners">Our Partners</Link>
                   </li>
                 </ul>
               </div>
@@ -680,20 +678,20 @@ const Footer4 = () => {
           <div className="footer-wrapper d-flex align-items-center justify-content-between pb-0">
             <ul className="footer-menu">
               <li>
-                <Link href="faq">FAQs</Link>
+                <Link href="#">FAQs</Link>
               </li>
               <li>
-                <Link href="about">Company</Link>
+                <Link href="#">Company</Link>
               </li>
               <li>
-                <Link href="contact">Privacy</Link>
+                <Link href="#">Privacy</Link>
               </li>
             </ul>
             <a href="#" id="scrollUp" className="scroll-icon">
               <i className="far fa-angle-double-up" />
             </a>
             <p>
-              © <Link href="/">2024</Link> All Rights Reserved
+              © <Link href="/">2025</Link> All Rights Reserved
             </p>
           </div>
         </div>

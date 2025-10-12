@@ -27,7 +27,9 @@ export const CoreFeatures = ({ paddingTop = 0, title = "Popular Services" }) => 
                             </div>
                             <div className="service-content">
                                 <h3>
-                                    <Link href="service-details">Strategic Market Research</Link>
+                                    {/* <Link href="service-details"> */}
+                                    Strategic Market Research
+                                    {/* </Link> */}
                                 </h3>
                                 <p>
                                     Our in-depth research frameworks uncover market trends, customer behavior, and competitive positioning.
@@ -48,7 +50,9 @@ export const CoreFeatures = ({ paddingTop = 0, title = "Popular Services" }) => 
                             </div>
                             <div className="service-content">
                                 <h3>
-                                    <Link href="service-details">Process Optimization</Link>
+                                    {/* <Link href="service-details"> */}
+                                    Process Optimization
+                                    {/* </Link> */}
                                 </h3>
                                 <p>
                                     We streamline business operations to reduce costs and improve performance across departments.
@@ -69,7 +73,9 @@ export const CoreFeatures = ({ paddingTop = 0, title = "Popular Services" }) => 
                             </div>
                             <div className="service-content">
                                 <h3>
-                                    <Link href="service-details">Project Implementation & Success Management</Link>
+                                    {/* <Link href="service-details"> */}
+                                    Project Implementation & Success Management
+                                    {/* </Link> */}
                                 </h3>
                                 <p>
                                     From planning to post-launch review, we ensure every initiative delivers measurable success.
