@@ -21,20 +21,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/_not-found/page.js"
     ],
-    "/whoweare/page": [
+    "/contact/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/whoweare/page.js"
-    ],
-    "/whatwedo/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/whatwedo/page.js"
+      "static/chunks/app/contact/page.js"
     ],
     "/ourpartners/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/ourpartners/page.js"
+    ],
+    "/whoweare/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/whoweare/page.js"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
-  "/whoweare/page": "app/whoweare/page.js",
-  "/whatwedo/page": "app/whatwedo/page.js",
-  "/ourpartners/page": "app/ourpartners/page.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/whoweare/page": "app/whoweare/page.js"
 }
