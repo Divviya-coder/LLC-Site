@@ -23,7 +23,7 @@ export const CoreFeatures = ({ paddingTop = 0, title = "Popular Services" }) => 
                     >
                         <div className="service-popular-items">
                             <div className="service-image">
-                                <img src="assets/img/service/08.png" alt="img" />
+                                <img src="assets/img/corefeatures1.png" alt="img" />
                             </div>
                             <div className="service-content">
                                 <h3>
@@ -46,7 +46,7 @@ export const CoreFeatures = ({ paddingTop = 0, title = "Popular Services" }) => 
                     >
                         <div className="service-popular-items">
                             <div className="service-image">
-                                <img src="assets/img/service/09.png" alt="img" />
+                                <img src="assets/img/corefeatures2.png" alt="img" />
                             </div>
                             <div className="service-content">
                                 <h3>
@@ -69,7 +69,7 @@ export const CoreFeatures = ({ paddingTop = 0, title = "Popular Services" }) => 
                     >
                         <div className="service-popular-items">
                             <div className="service-image">
-                                <img src="assets/img/service/10.png" alt="img" />
+                                <img src="assets/img/corefeatures3.png" alt="img" />
                             </div>
                             <div className="service-content">
                                 <h3>

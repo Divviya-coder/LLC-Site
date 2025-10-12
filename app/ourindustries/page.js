@@ -26,7 +26,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/05.jpg" alt="img" />
+                      <img src="assets/img/industry1.jpg" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Financial Service</p>
@@ -44,7 +44,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/06.jpg" alt="img" />
+                      <img src="assets/img/industry2.jpg" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Healthcare & Life Sciences</p>
@@ -62,7 +62,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/07.jpg" alt="img" />
+                      <img src="assets/img/industry3.jpg" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Technology & IT Services</p>
@@ -80,7 +80,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/08.jpg" alt="img" />
+                      <img src="assets/img/industry4.jpg" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Manufacturing & Industrial</p>
@@ -98,7 +98,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/09.jpg" alt="img" />
+                      <img src="assets/img/industry5.jpg" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Energy & Utilities</p>
@@ -116,7 +116,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/10.jpg" alt="img" />
+                      <img src="assets/img/industry6.jpg" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Retail & Consumer Goods</p>
@@ -134,7 +134,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/11.jpg" alt="img" />
+                      <img src="assets/img/industry7.jpg" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Education & Training</p>
@@ -152,7 +152,7 @@ const page = () => {
                 >
                   <div className="project-card-items">
                     <div className="project-image">
-                      <img src="assets/img/project/12.jpg" alt="img" />
+                      <img src="assets/img/industry8.jpg" alt="img" />
                     </div>
                     <div className="project-content">
                       <p>Public Sector</p>

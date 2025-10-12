@@ -20,7 +20,7 @@ const Team = () => {
           >
             <div className="team-card-items">
               <div className="team-image">
-                <img src="assets/img/team/06.jpg" alt="team-img" />
+                <img src="assets/img/about/06(1).jpg" alt="team-img" />
                 <div className="icon-list">
                   <ul>
                     <li>
@@ -60,7 +60,7 @@ const Team = () => {
           >
             <div className="team-card-items">
               <div className="team-image">
-                <img src="assets/img/team/07.jpg" alt="team-img" />
+                <img src="assets/img/about/07.jpg" alt="team-img" />
                 <div className="icon-list">
                   <ul>
                     <li>
@@ -100,7 +100,7 @@ const Team = () => {
           >
             <div className="team-card-items">
               <div className="team-image">
-                <img src="assets/img/team/08.jpg" alt="team-img" />
+                <img src="assets/img/about/08.jpg" alt="team-img" />
                 <div className="icon-list">
                   <ul>
                     <li>
@@ -140,7 +140,7 @@ const Team = () => {
           >
             <div className="team-card-items">
               <div className="team-image">
-                <img src="assets/img/team/09.jpg" alt="team-img" />
+                <img src="assets/img/about/09.jpg" alt="team-img" />
                 <div className="icon-list">
                   <ul>
                     <li>

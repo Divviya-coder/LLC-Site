@@ -63,7 +63,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
         <SwiperSlide className="swiper-slide">
           <div className={`testimonial-card-items ${style}`}>
             <div className="testimonial-image">
-              <img src="assets/img/testimonial/client-2.png" alt="img" />
+              <img src="assets/img/client-2.png" alt="img" />
             </div>
             <div className="testimonial-content">
               <div className="author-image">
@@ -84,7 +84,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
         <SwiperSlide className="swiper-slide">
           <div className={`testimonial-card-items ${style}`}>
             <div className="testimonial-image">
-              <img src="assets/img/testimonial/client-3.png" alt="img" />
+              <img src="assets/img/client-3.png" alt="img" />
             </div>
             <div className="testimonial-content">
               <div className="author-image">
@@ -105,7 +105,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
         <SwiperSlide className="swiper-slide">
           <div className={`testimonial-card-items ${style}`}>
             <div className="testimonial-image">
-              <img src="assets/img/testimonial/client-2.png" alt="img" />
+              <img src="assets/img/client-2.png" alt="img" />
             </div>
             <div className="testimonial-content">
               <div className="author-image">
@@ -127,7 +127,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
         <SwiperSlide className="swiper-slide">
           <div className={`testimonial-card-items ${style}`}>
             <div className="testimonial-image">
-              <img src="assets/img/testimonial/client-3.png" alt="img" />
+              <img src="assets/img/client-3.png" alt="img" />
             </div>
             <div className="testimonial-content">
               <div className="author-image">

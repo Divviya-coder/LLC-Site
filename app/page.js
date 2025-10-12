@@ -56,7 +56,7 @@ const page = () => {
             <div className="col-lg-5 wow fadeInUp" data-wow-delay=".4s">
               <div className="hero-image">
                 <img
-                  src="assets/img/hero/digital-marketing-hero-img-min.png"
+                  src="assets/img/digital-marketing-hero-img-min.png"
                   alt="img"
                 />
                 <div className="circle-musk-shape float-bob-x">
@@ -76,7 +76,7 @@ const page = () => {
               <div className="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                 <div className="digital-about-image">
                   <img
-                    src="assets/img/about/digittal-about-img.png"
+                    src="assets/img/digittal-about-img.png"
                     alt="img"
                   />
                 </div>

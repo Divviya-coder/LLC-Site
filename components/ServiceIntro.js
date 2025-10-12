@@ -13,7 +13,7 @@ const ServiceIntro = ({ paddingTop = 0 }) => {
                                 className="grow-business-image wow fadeInUp"
                                 data-wow-delay=".3s"
                             >
-                                <img src="assets/img/grow/02.jpg" alt="img" />
+                                <img src="assets/img/service1.jpg" alt="img" />
                                 <div
                                     className="grap-shape float-bob-x wow fadeInLeft"
                                     data-wow-delay=".5s"

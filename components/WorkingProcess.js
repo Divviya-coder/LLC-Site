@@ -8,20 +8,20 @@ const WorkingProcess = () => {
             Our Industries
           </span>
           <h2 className="wow fadeInUp" data-wow-delay=".3s">
-          We Follow a Proven Approach to<br/> Deliver Strategic Excellence
+            We Follow a Proven Approach to<br /> Deliver Strategic Excellence
           </h2>
         </div>
         <div className="row align-items-center justify-content-between">
           <div className="col-lg-8 wow fadeInUp" data-wow-delay=".3s">
             <div className="working-card-items">
               <div className="icon">
-                <img src="assets/img/working-process/icon-1.png" alt="img" />
+                <img src="assets/img/icon-1.png" alt="img" />
               </div>
               <div className="content">
                 <span className="sub-title">Step 01</span>
                 <h3>Discovery &amp; Insight</h3>
                 <p>
-                We begin by understanding your business, goals, and challenges through deep discovery sessions and data-driven analysis to build a clear foundation for success.
+                  We begin by understanding your business, goals, and challenges through deep discovery sessions and data-driven analysis to build a clear foundation for success.
                 </p>
               </div>
             </div>
@@ -45,24 +45,24 @@ const WorkingProcess = () => {
                 <span className="sub-title">Step 02</span>
                 <h3>Market &amp; Competitor Evaluation</h3>
                 <p>
-                Our experts perform a comprehensive review of your market landscape and competitors to identify key opportunities and strategic advantages.
+                  Our experts perform a comprehensive review of your market landscape and competitors to identify key opportunities and strategic advantages.
                 </p>
               </div>
               <div className="icon">
-                <img src="assets/img/working-process/icon-2.png" alt="img" />
+                <img src="assets/img/icon-2.png" alt="img" />
               </div>
             </div>
           </div>
           <div className="col-lg-8 wow fadeInUp" data-wow-delay=".3s">
             <div className="working-card-items">
               <div className="icon">
-                <img src="assets/img/working-process/icon-3.png" alt="img" />
+                <img src="assets/img/icon-3.png" alt="img" />
               </div>
               <div className="content">
                 <span className="sub-title">Step 03</span>
                 <h3>Strategy Design &amp; Implementation</h3>
                 <p>
-                We craft a customized strategy focused on operational efficiency, growth, and performance — then guide your team through seamless execution.
+                  We craft a customized strategy focused on operational efficiency, growth, and performance — then guide your team through seamless execution.
                 </p>
               </div>
             </div>
@@ -86,11 +86,11 @@ const WorkingProcess = () => {
                 <span className="sub-title">Step 04</span>
                 <h3>Sustained Growth &amp; Results</h3>
                 <p>
-                We monitor progress, refine tactics, and help your organization achieve measurable outcomes delivering long-term value and sustainable success.
+                  We monitor progress, refine tactics, and help your organization achieve measurable outcomes delivering long-term value and sustainable success.
                 </p>
               </div>
               <div className="icon">
-                <img src="assets/img/working-process/icon-4.png" alt="img" />
+                <img src="assets/img/icon-4.png" alt="img" />
               </div>
             </div>
           </div>
@@ -156,7 +156,7 @@ export const WorkingProcess2 = () => {
                 className="work-process-image wow fadeInUp"
                 data-wow-delay=".4s"
               >
-                <img src="assets/img/business-mens-grsl.jpg" alt="img" />
+                <img src="assets/img/about/business-mens-grsl.jpg" alt="img" />
               </div>
             </div>
           </div>
