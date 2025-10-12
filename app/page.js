@@ -136,7 +136,7 @@ const page = () => {
           <div className="section-title text-center">
             <span className="sub-content wow fadeInUp">
               <img src="assets/img/bale.png" alt="img" />
-              Our Parnters
+              Our Parnters 
             </span>
             <h2 className="wow fadeInUp" data-wow-delay=".5s">
             Trusted by 500+ Global Businesses for Strategic Growth
