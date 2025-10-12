@@ -13,12 +13,10 @@ const Services = () => {
         <div className="section-title text-center">
           <span className="sub-content bg-color-3 wow fadeInUp">
             <img src="assets/img/bale.png" alt="img" />
-            Popular Services
+            What We Do
           </span>
           <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
-            We Provide Best Digital Marketing <br />
-            service to build an modern &amp; <br /> professional service for
-            clients
+          We Provide the Best Business Consulting services to build a modern & strategically strong foundation for our clients
           </h2>
         </div>
         <div className="row">
@@ -32,11 +30,10 @@ const Services = () => {
               </div>
               <div className="content">
                 <h3>
-                  <Link href="service-details">Keyword Research</Link>
+                  <Link href="service-details">Business Strategy Planning</Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error voluptatem
-                  accusantium
+                We analyze your business structure, market position, and goals to craft a custom strategy that drives performance and competitive advantage.
                 </p>
               </div>
             </div>
@@ -51,11 +48,10 @@ const Services = () => {
               </div>
               <div className="content">
                 <h3>
-                  <Link href="service-details">What We Do</Link>
+                  <Link href="service-details">Financial Consulting</Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error voluptatem
-                  accusantium
+                Our team delivers clear financial insights<br/> and planning to help businesses optimize<br/> cash flow, reduce costs, and increase<br/> profitability.
                 </p>
               </div>
             </div>
@@ -70,11 +66,10 @@ const Services = () => {
               </div>
               <div className="content">
                 <h3>
-                  <Link href="service-details">Email Marketing</Link>
+                  <Link href="service-details">Operations Improvement</Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error voluptatem
-                  accusantium
+                We streamline processes, enhance productivity, and implement data-driven systems that improve organizational efficiency.
                 </p>
               </div>
             </div>
@@ -89,11 +84,10 @@ const Services = () => {
               </div>
               <div className="content">
                 <h3>
-                  <Link href="service-details">Content Writing</Link>
+                  <Link href="service-details">Market Research & Analysis</Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error voluptatem
-                  accusantium
+                We conduct comprehensive market<br/> research to uncover new opportunities, <br/>assess competition, and guide<br/> informed decision-making.
                 </p>
               </div>
             </div>
@@ -108,11 +102,10 @@ const Services = () => {
               </div>
               <div className="content">
                 <h3>
-                  <Link href="service-details">Website Development</Link>
+                  <Link href="service-details">Risk Management</Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error voluptatem
-                  accusantium
+                Our consultants help you identify, evaluate, and mitigate risks—ensuring business continuity and long-term<br/> resilience.
                 </p>
               </div>
             </div>
@@ -127,11 +120,10 @@ const Services = () => {
               </div>
               <div className="content">
                 <h3>
-                  <Link href="service-details">SEO Optimizations</Link>
+                  <Link href="service-details">Leadership Transformation</Link>
                 </h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error voluptatem
-                  accusantium
+                We design training and development programs that empower leaders, improve team dynamics, and build a culture<br/> of excellence.
                 </p>
               </div>
             </div>

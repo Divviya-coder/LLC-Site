@@ -1,8 +1,7 @@
 import Faq from "@/components/Faq";
 import Services from "@/components/Services";
 import {
-  TestimonialSlider4,
-  TestimonialSlider5,
+  TestimonialSlider2,
 } from "@/components/TestimonialSlider";
 import WorkingProcess from "@/components/WorkingProcess";
 import NextLayout from "@/layouts/NextLayout";
@@ -21,12 +20,10 @@ const page = () => {
                   25+ Years Of Experience
                 </span>
                 <h1 className="wow fadeInUp" data-wow-delay=".4s">
-                  The Perfect Digital marketing For grow your Business
+                  Empowering Business Growth With Strategic Excellence
                 </h1>
                 <p className="wow fadeInUp" data-wow-delay=".5s">
-                  Sed ut perspiciatis unde omnis iste natus voluptatem
-                  accusantium <br />
-                  doloremque laudantium, totam rem aperiam
+                Keystone Strategic Consultants LLC helps organizations unlock potential, drive innovation, and achieve sustainable success through expert strategy and business insight.
                 </p>
                 <div className="about-author">
                   <div
@@ -48,8 +45,8 @@ const page = () => {
                     />
                     <div className="content">
                       <h6>
-                        Trusted by 1M+ people <br />
-                        around the globe
+                      Trusted by 1M+ clients <br/>
+                      around the world
                       </h6>
                     </div>
                   </div>
@@ -89,15 +86,14 @@ const page = () => {
                   <div className="section-title">
                     <span className="sub-content wow fadeInUp">
                       <img src="assets/img/bale.png" alt="img" />
-                      About Company
+                      Who We Are
                     </span>
                     <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                      We Have Experience Team to Lead your Business
+                    We Have an Experienced Team to Lead Your Business
                     </h2>
                   </div>
                   <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                    Sed ut perspiciatis unde omnis iste natus error sit volupta
-                    temes accusantium doloremque laudantium, totam rem
+                    At Keystone Strategic Consultants LLC, we provide expert guidance and innovative strategies to help your business grow stronger, smarter, and faster.
                   </p>
                   <ul
                     className="about-list style-2 wow fadeInUp"
@@ -105,11 +101,11 @@ const page = () => {
                   >
                     <li>
                       <i className="fas fa-check-circle" />
-                      Marketing Strategy &amp; SEO Camping
+                      Business Strategy &amp; Growth Planning
                     </li>
                     <li>
                       <i className="fas fa-check-circle" />
-                      Best Customers Experience
+                      Trusted Client Partnerships
                     </li>
                   </ul>
                   <div
@@ -132,109 +128,24 @@ const page = () => {
       {/* Working Process Section Start */}
       <WorkingProcess />
       {/* Testimonial Section Start */}
-      <section className="testimonial-section-4 fix section-padding">
+      <section className="testimonial-section-2 fix section-padding fix">
+        <div className="bg-shape">
+          <img src="assets/img/testimonial/bg-shape.png" alt="shape-img" />
+        </div>
         <div className="container">
           <div className="section-title text-center">
             <span className="sub-content wow fadeInUp">
               <img src="assets/img/bale.png" alt="img" />
-              Testimonials
+              Our Parnters
             </span>
-            <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
-              We’ve 1250+ Global Clients Say Us
+            <h2 className="wow fadeInUp" data-wow-delay=".5s">
+            Trusted by 500+ Global Businesses for Strategic Growth
             </h2>
           </div>
         </div>
-
-        <TestimonialSlider4 />
-        <TestimonialSlider5 />
+        <TestimonialSlider2 />
       </section>
-      {/* Faq Section Start */}
-      <Faq />
-      {/* News Section Start */}
-      <section className="news-section section-padding pt-0">
-        <div className="container">
-          <div className="section-title text-center">
-            <span className="sub-content wow fadeInUp">
-              <img src="assets/img/bale.png" alt="img" />
-              News &amp; Blog
-            </span>
-            <h2 className="wow fadeInUp" data-wow-delay=".3s">
-              Explore Our Latest News &amp; Blog
-            </h2>
-          </div>
-          <div className="row">
-            <div
-              className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-              data-wow-delay=".3s"
-            >
-              <div className="news-card-items style-2">
-                <div
-                  className="news-image bg-cover"
-                  style={{ backgroundImage: 'url("assets/img/news/07.jpg")' }}
-                />
-                <div className="news-content">
-                  <p>November 25, 2024</p>
-                  <h4>
-                    <Link href="news-details">
-                      Achieving Fashion Elegan Runway to Real Life
-                    </Link>
-                  </h4>
-                  <Link className="link-btn" href="news-details">
-                    Read More
-                    <i className="far fa-arrow-right" />
-                  </Link>
-                </div>
-              </div>
-            </div>
-            <div
-              className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-              data-wow-delay=".5s"
-            >
-              <div className="news-card-items style-2">
-                <div
-                  className="news-image bg-cover"
-                  style={{ backgroundImage: 'url("assets/img/news/08.jpg")' }}
-                />
-                <div className="news-content">
-                  <p>November 25, 2024</p>
-                  <h4>
-                    <Link href="news-details">
-                      Remote work made easy way better tools.
-                    </Link>
-                  </h4>
-                  <Link className="link-btn" href="news-details">
-                    Read More
-                    <i className="far fa-arrow-right" />
-                  </Link>
-                </div>
-              </div>
-            </div>
-            <div
-              className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
-              data-wow-delay=".7s"
-            >
-              <div className="news-card-items style-2">
-                <div
-                  className="news-image bg-cover"
-                  style={{ backgroundImage: 'url("assets/img/news/09.jpg")' }}
-                />
-                <div className="news-content">
-                  <p>November 25, 2024</p>
-                  <h4>
-                    <Link href="news-details">
-                      Achieving Fashion Elegan Runway to Real Life
-                    </Link>
-                  </h4>
-                  <Link className="link-btn" href="news-details">
-                    Read More
-                    <i className="far fa-arrow-right" />
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+     
       {/* Contact Section Start */}
       <section className="contact-section fix section-padding pt-0 fix">
         <div className="pattern-shape">
@@ -259,14 +170,11 @@ const page = () => {
                   Contact Us
                 </span>
                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                  Ready to Boost your Digital <br />
-                  product marketing ?
+                Ready to Elevate Your Business Strategy?
                 </h2>
               </div>
               <p className="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                Sed ut perspiciatis unde omnis iste natus error voluptatem
-                accusantium <br /> doloremque laudantium, totam rem aperiam,
-                eaque ipsa quae
+              We help organizations unlock growth, improve performance, and build sustainable success through proven strategic consulting and execution.<br/>Let’s turn your vision into measurable results.
               </p>
               <Link
                 href="contact"

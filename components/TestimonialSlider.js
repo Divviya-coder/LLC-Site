@@ -70,12 +70,12 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
                 <img src="assets/img/testimonial/client.png" alt="author-img" />
                 <div className="content">
                   <h5>
-                    Michael M. Griffin <span>/CO Founder</span>
+                  Evelyn R. Carter <span>/CO Founder</span>
                   </h5>
                 </div>
               </div>
               <p>
-                Keystone helped us align our strategy and operations seamlessly. Their insights and commitment were instrumental in driving growth.
+              Keystone Strategic Consultants completely transformed our business operations. Their strategic insights and process optimization helped us cut costs by 25% while increasing efficiency across departments.
               </p>
               <div className="star">
                 <i className="fas fa-star" />
@@ -102,7 +102,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
                 </div>
               </div>
               <p>
-                Working with Keystone was a game-changer. Their team’s professionalism and clarity in execution made a lasting impact.
+              The Keystone team guided us through a complex expansion phase. Their market analysis and financial strategy ensured we scaled sustainably and profitably.
               </p>
               <div className="star">
                 <i className="fas fa-star" />
@@ -129,7 +129,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
                 </div>
               </div>
               <p>
-                Keystone helped us align our strategy and operations seamlessly. Their insights and commitment were instrumental in driving growth.
+              Working with Keystone was a turning point for us. Their leadership development and organizational strategy empowered our managers and boosted productivity company-wide.
 
               </p>
               <div className="star">
@@ -157,7 +157,7 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
                 </div>
               </div>
               <p>
-                Working with Keystone was a game-changer. Their team’s professionalism and clarity in execution made a lasting impact.
+              Their approach to risk management and long-term strategy gave us clarity and confidence in our business direction. Keystone is a true strategic partner.
               </p>
               <div className="star">
                 <i className="fas fa-star" />
@@ -177,630 +177,630 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
   );
 };
 
-export const TestimonialSlider3 = () => {
-  return (
-    <Swiper
-      {...sliderProps.testimonialSlider3}
-      className="swiper testimonial-slider-3"
-    >
-      <div className="swiper-wrapper">
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-content">
-            <div className="author-image">
-              <img src="assets/img/testimonial/client.png" alt="author-img" />
-              <div className="content">
-                <h5>
-                  Michael M. Griffin / <span>CO Founder</span>
-                </h5>
-              </div>
-            </div>
-            <p>
-              “ we denounce with right indignation and dislike men who are so
-              beguile and demoralized by the charms of pleasure of the moment,
-              so blinded by desire, that they cannot foresee “
-            </p>
-            <div className="star">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-content">
-            <div className="author-image">
-              <img src="assets/img/testimonial/client.png" alt="author-img" />
-              <div className="content">
-                <h5>
-                  Michael M. Griffin / <span>CO Founder</span>
-                </h5>
-              </div>
-            </div>
-            <p>
-              “ we denounce with right indignation and dislike men who are so
-              beguile and demoralized by the charms of pleasure of the moment,
-              so blinded by desire, that they cannot foresee “
-            </p>
-            <div className="star">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-content">
-            <div className="author-image">
-              <img src="assets/img/testimonial/client.png" alt="author-img" />
-              <div className="content">
-                <h5>
-                  Michael M. Griffin / <span>CO Founder</span>
-                </h5>
-              </div>
-            </div>
-            <p>
-              “ we denounce with right indignation and dislike men who are so
-              beguile and demoralized by the charms of pleasure of the moment,
-              so blinded by desire, that they cannot foresee “
-            </p>
-            <div className="star">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-content">
-            <div className="author-image">
-              <img src="assets/img/testimonial/client.png" alt="author-img" />
-              <div className="content">
-                <h5>
-                  Michael M. Griffin / <span>CO Founder</span>
-                </h5>
-              </div>
-            </div>
-            <p>
-              “ we denounce with right indignation and dislike men who are so
-              beguile and demoralized by the charms of pleasure of the moment,
-              so blinded by desire, that they cannot foresee “
-            </p>
-            <div className="star">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-content">
-            <div className="author-image">
-              <img src="assets/img/testimonial/client.png" alt="author-img" />
-              <div className="content">
-                <h5>
-                  Michael M. Griffin / <span>CO Founder</span>
-                </h5>
-              </div>
-            </div>
-            <p>
-              “ we denounce with right indignation and dislike men who are so
-              beguile and demoralized by the charms of pleasure of the moment,
-              so blinded by desire, that they cannot foresee “
-            </p>
-            <div className="star">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-content">
-            <div className="author-image">
-              <img src="assets/img/testimonial/client.png" alt="author-img" />
-              <div className="content">
-                <h5>
-                  Michael M. Griffin / <span>CO Founder</span>
-                </h5>
-              </div>
-            </div>
-            <p>
-              “ we denounce with right indignation and dislike men who are so
-              beguile and demoralized by the charms of pleasure of the moment,
-              so blinded by desire, that they cannot foresee “
-            </p>
-            <div className="star">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-          </div>
-        </SwiperSlide>
-      </div>
-      <div className="swiper-dot-2 pt-3 ps-1">
-        <div className="dot" />
-      </div>
-    </Swiper>
-  );
-};
+// export const TestimonialSlider3 = () => {
+//   return (
+//     <Swiper
+//       {...sliderProps.testimonialSlider3}
+//       className="swiper testimonial-slider-3"
+//     >
+//       <div className="swiper-wrapper">
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-content">
+//             <div className="author-image">
+//               <img src="assets/img/testimonial/client.png" alt="author-img" />
+//               <div className="content">
+//                 <h5>
+//                   Michael M. Griffin / <span>CO Founder</span>
+//                 </h5>
+//               </div>
+//             </div>
+//             <p>
+//               “ we denounce with right indignation and dislike men who are so
+//               beguile and demoralized by the charms of pleasure of the moment,
+//               so blinded by desire, that they cannot foresee “
+//             </p>
+//             <div className="star">
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-content">
+//             <div className="author-image">
+//               <img src="assets/img/testimonial/client.png" alt="author-img" />
+//               <div className="content">
+//                 <h5>
+//                   Michael M. Griffin / <span>CO Founder</span>
+//                 </h5>
+//               </div>
+//             </div>
+//             <p>
+//               “ we denounce with right indignation and dislike men who are so
+//               beguile and demoralized by the charms of pleasure of the moment,
+//               so blinded by desire, that they cannot foresee “
+//             </p>
+//             <div className="star">
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-content">
+//             <div className="author-image">
+//               <img src="assets/img/testimonial/client.png" alt="author-img" />
+//               <div className="content">
+//                 <h5>
+//                   Michael M. Griffin / <span>CO Founder</span>
+//                 </h5>
+//               </div>
+//             </div>
+//             <p>
+//               “ we denounce with right indignation and dislike men who are so
+//               beguile and demoralized by the charms of pleasure of the moment,
+//               so blinded by desire, that they cannot foresee “
+//             </p>
+//             <div className="star">
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-content">
+//             <div className="author-image">
+//               <img src="assets/img/testimonial/client.png" alt="author-img" />
+//               <div className="content">
+//                 <h5>
+//                   Michael M. Griffin / <span>CO Founder</span>
+//                 </h5>
+//               </div>
+//             </div>
+//             <p>
+//               “ we denounce with right indignation and dislike men who are so
+//               beguile and demoralized by the charms of pleasure of the moment,
+//               so blinded by desire, that they cannot foresee “
+//             </p>
+//             <div className="star">
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-content">
+//             <div className="author-image">
+//               <img src="assets/img/testimonial/client.png" alt="author-img" />
+//               <div className="content">
+//                 <h5>
+//                   Michael M. Griffin / <span>CO Founder</span>
+//                 </h5>
+//               </div>
+//             </div>
+//             <p>
+//               “ we denounce with right indignation and dislike men who are so
+//               beguile and demoralized by the charms of pleasure of the moment,
+//               so blinded by desire, that they cannot foresee “
+//             </p>
+//             <div className="star">
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-content">
+//             <div className="author-image">
+//               <img src="assets/img/testimonial/client.png" alt="author-img" />
+//               <div className="content">
+//                 <h5>
+//                   Michael M. Griffin / <span>CO Founder</span>
+//                 </h5>
+//               </div>
+//             </div>
+//             <p>
+//               “ we denounce with right indignation and dislike men who are so
+//               beguile and demoralized by the charms of pleasure of the moment,
+//               so blinded by desire, that they cannot foresee “
+//             </p>
+//             <div className="star">
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//               <i className="fas fa-star" />
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//       </div>
+//       <div className="swiper-dot-2 pt-3 ps-1">
+//         <div className="dot" />
+//       </div>
+//     </Swiper>
+//   );
+// };
 
-export const TestimonialSlider4 = () => {
-  return (
-    <Swiper
-      {...sliderProps.testimonialSlider4}
-      className="swiper testimonial-slider-4"
-    >
-      <div className="swiper-wrapper">
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
-                <div className="content">
-                  <h5>
-                    Louis K. Peters <span>/CEO &amp; Founder</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-4.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Michael B. Camara <span>/Designer</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-5.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Gary D. Gallegos <span>/Business man</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-6.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Steven D. Owens <span>/Manager</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
-                <div className="content">
-                  <h5>
-                    Louis K. Peters <span>/CEO &amp; Founder</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-4.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Michael B. Camara <span>/Designer</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-5.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Gary D. Gallegos <span>/Business man</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-6.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Steven D. Owens <span>/Manager</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-      </div>
-    </Swiper>
-  );
-};
+// export const TestimonialSlider4 = () => {
+//   return (
+//     <Swiper
+//       {...sliderProps.testimonialSlider4}
+//       className="swiper testimonial-slider-4"
+//     >
+//       <div className="swiper-wrapper">
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img src="assets/img/testimonial/client.png" alt="author-img" />
+//                 <div className="content">
+//                   <h5>
+//                     Louis K. Peters <span>/CEO &amp; Founder</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-4.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Michael B. Camara <span>/Designer</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-5.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Gary D. Gallegos <span>/Business man</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-6.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Steven D. Owens <span>/Manager</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img src="assets/img/testimonial/client.png" alt="author-img" />
+//                 <div className="content">
+//                   <h5>
+//                     Louis K. Peters <span>/CEO &amp; Founder</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-4.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Michael B. Camara <span>/Designer</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-5.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Gary D. Gallegos <span>/Business man</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-6.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Steven D. Owens <span>/Manager</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//       </div>
+//     </Swiper>
+//   );
+// };
 
-export const TestimonialSlider5 = () => {
-  return (
-    <Swiper
-      {...sliderProps.testimonialSlider5}
-      className="swiper testimonial-slider-5"
-    >
-      <div className="swiper-wrapper">
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-7.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Patrick J. Palmer <span>/ Developer</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-8.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Todd C. Keller <span>/CEO &amp; Founder</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-9.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Shane D. Ryan <span>/Manager</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-10.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    John F. Smith <span>/Designer</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-7.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Patrick J. Palmer <span>/ Developer</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-8.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Todd C. Keller <span>/CEO &amp; Founder</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-9.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    Shane D. Ryan <span>/Manager</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide className="swiper-slide">
-          <div className="testimonial-box-items">
-            <div className="testimonial-content">
-              <div className="author-image">
-                <img
-                  src="assets/img/testimonial/client-10.png"
-                  alt="author-img"
-                />
-                <div className="content">
-                  <h5>
-                    John F. Smith <span>/Designer</span>
-                  </h5>
-                </div>
-              </div>
-              <p>
-                Sed ut perspiciatis unde omnis natus error sit voluptatem
-                accusanti doloremque laudantium, totam rem aperiame
-              </p>
-              <div className="star">
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-                <i className="fas fa-star" />
-              </div>
-            </div>
-          </div>
-        </SwiperSlide>
-      </div>
-    </Swiper>
-  );
-};
+// export const TestimonialSlider5 = () => {
+//   return (
+//     <Swiper
+//       {...sliderProps.testimonialSlider5}
+//       className="swiper testimonial-slider-5"
+//     >
+//       <div className="swiper-wrapper">
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-7.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Patrick J. Palmer <span>/ Developer</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-8.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Todd C. Keller <span>/CEO &amp; Founder</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-9.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Shane D. Ryan <span>/Manager</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-10.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     John F. Smith <span>/Designer</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-7.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Patrick J. Palmer <span>/ Developer</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-8.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Todd C. Keller <span>/CEO &amp; Founder</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-9.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     Shane D. Ryan <span>/Manager</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//         <SwiperSlide className="swiper-slide">
+//           <div className="testimonial-box-items">
+//             <div className="testimonial-content">
+//               <div className="author-image">
+//                 <img
+//                   src="assets/img/testimonial/client-10.png"
+//                   alt="author-img"
+//                 />
+//                 <div className="content">
+//                   <h5>
+//                     John F. Smith <span>/Designer</span>
+//                   </h5>
+//                 </div>
+//               </div>
+//               <p>
+//                 Sed ut perspiciatis unde omnis natus error sit voluptatem
+//                 accusanti doloremque laudantium, totam rem aperiame
+//               </p>
+//               <div className="star">
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//                 <i className="fas fa-star" />
+//               </div>
+//             </div>
+//           </div>
+//         </SwiperSlide>
+//       </div>
+//     </Swiper>
+//   );
+// };
 
 export const TestiThumbSlider = () => {
   return (

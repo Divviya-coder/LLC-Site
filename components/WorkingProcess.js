@@ -5,11 +5,10 @@ const WorkingProcess = () => {
         <div className="section-title text-center">
           <span className="sub-content wow fadeInUp">
             <img src="assets/img/bale.png" alt="img" />
-            Working Process
+            Our Industries
           </span>
           <h2 className="wow fadeInUp" data-wow-delay=".3s">
-            We Complete Our Work to Follow <br />
-            Some Easy Ways
+          We Follow a Proven Approach to<br/> Deliver Strategic Excellence
           </h2>
         </div>
         <div className="row align-items-center justify-content-between">
@@ -20,10 +19,9 @@ const WorkingProcess = () => {
               </div>
               <div className="content">
                 <span className="sub-title">Step 01</span>
-                <h3>Discovery &amp; Analysis</h3>
+                <h3>Discovery &amp; Insight</h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error <br />{" "}
-                  voluptatem accusantium
+                We begin by understanding your business, goals, and challenges through deep discovery sessions and data-driven analysis to build a clear foundation for success.
                 </p>
               </div>
             </div>
@@ -45,10 +43,9 @@ const WorkingProcess = () => {
             <div className="working-card-items">
               <div className="content">
                 <span className="sub-title">Step 02</span>
-                <h3>Competitor Analysis</h3>
+                <h3>Market &amp; Competitor Evaluation</h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error <br />{" "}
-                  voluptatem accusantium
+                Our experts perform a comprehensive review of your market landscape and competitors to identify key opportunities and strategic advantages.
                 </p>
               </div>
               <div className="icon">
@@ -63,10 +60,9 @@ const WorkingProcess = () => {
               </div>
               <div className="content">
                 <span className="sub-title">Step 03</span>
-                <h3>Strategy &amp; Execution</h3>
+                <h3>Strategy Design &amp; Implementation</h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error <br />{" "}
-                  voluptatem accusantium
+                We craft a customized strategy focused on operational efficiency, growth, and performance — then guide your team through seamless execution.
                 </p>
               </div>
             </div>
@@ -88,10 +84,9 @@ const WorkingProcess = () => {
             <div className="working-card-items">
               <div className="content">
                 <span className="sub-title">Step 04</span>
-                <h3>Get 3x Results</h3>
+                <h3>Sustained Growth &amp; Results</h3>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error <br />{" "}
-                  voluptatem accusantium
+                We monitor progress, refine tactics, and help your organization achieve measurable outcomes delivering long-term value and sustainable success.
                 </p>
               </div>
               <div className="icon">
