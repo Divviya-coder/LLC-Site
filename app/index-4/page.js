@@ -1,8 +1,8 @@
 import Faq from "@/components/Faq";
 import Services from "@/components/Services";
 import {
-  TestimonialSlider4,
-  TestimonialSlider5,
+  // TestimonialSlider4,
+  // TestimonialSlider5,
 } from "@/components/TestimonialSlider";
 import WorkingProcess from "@/components/WorkingProcess";
 import NextLayout from "@/layouts/NextLayout";
@@ -189,8 +189,8 @@ const page = () => {
           </div>
         </div>
 
-        <TestimonialSlider4 />
-        <TestimonialSlider5 />
+        {/* <TestimonialSlider4 /> */}
+        {/* <TestimonialSlider5 /> */}
       </section>
       {/* Faq Section Start */}
       <Faq />
