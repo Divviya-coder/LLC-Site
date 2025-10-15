@@ -956,7 +956,7 @@ const Header6 = ({ single }) => {
             <div className="header-main">
               <div className="sticky-logo">
                 <Link href="/">
-                  <img src="assets/img/logo/black-logo.svg" alt="logo-img" />
+                  <img src="assets/img/logo/black-logo.svg" style={{ width: "100%" }} alt="logo-img" />
                 </Link>
               </div>
               <div className="header-left">

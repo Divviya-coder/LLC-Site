@@ -62,7 +62,7 @@ const page = () => {
             >
               <div className="team-card-items style-2">
                 <div className="team-image">
-                  <img src="assets/img/about/06(1).jpg" alt="team-img" />
+                  <img src="assets/img/dummypartner.jpeg" alt="team-img" />
                   <div className="icon-list">
                     <ul>
                       <li>
@@ -104,7 +104,7 @@ const page = () => {
             >
               <div className="team-card-items style-2">
                 <div className="team-image">
-                  <img src="assets/img/about/07.jpg" alt="team-img" />
+                  <img src="assets/img/dummypartner.jpeg" alt="team-img" />
                   <div className="icon-list">
                     <ul>
                       <li>
@@ -146,7 +146,7 @@ const page = () => {
             >
               <div className="team-card-items style-2">
                 <div className="team-image">
-                  <img src="assets/img/about/08.jpg" alt="team-img" />
+                  <img src="assets/img/dummypartner.jpeg" alt="team-img" />
                   <div className="icon-list">
                     <ul>
                       <li>
@@ -188,7 +188,7 @@ const page = () => {
             >
               <div className="team-card-items style-2">
                 <div className="team-image">
-                  <img src="assets/img/about/09.jpg" alt="team-img" />
+                  <img src="assets/img/dummypartner.jpeg" alt="team-img" />
                   <div className="icon-list">
                     <ul>
                       <li>
@@ -230,7 +230,7 @@ const page = () => {
             >
               <div className="team-card-items style-2">
                 <div className="team-image">
-                  <img src="assets/img/about/07.jpg" alt="team-img" />
+                  <img src="assets/img/dummypartner.jpeg" alt="team-img" />
                   <div className="icon-list">
                     <ul>
                       <li>
@@ -272,7 +272,7 @@ const page = () => {
             >
               <div className="team-card-items style-2">
                 <div className="team-image">
-                  <img src="assets/img/about/06(1).jpg" alt="team-img" />
+                  <img src="assets/img/dummypartner.jpeg" alt="team-img" />
                   <div className="icon-list">
                     <ul>
                       <li>
@@ -314,7 +314,7 @@ const page = () => {
             >
               <div className="team-card-items style-2">
                 <div className="team-image">
-                  <img src="assets/img/about/07.jpg" alt="team-img" />
+                  <img src="assets/img/dummypartner.jpeg" alt="team-img" />
                   <div className="icon-list">
                     <ul>
                       <li>
@@ -356,7 +356,7 @@ const page = () => {
             >
               <div className="team-card-items style-2">
                 <div className="team-image">
-                  <img src="assets/img/about/09.jpg" alt="team-img" />
+                  <img src="assets/img/dummypartner.jpeg" alt="team-img" />
                   <div className="icon-list">
                     <ul>
                       <li>
