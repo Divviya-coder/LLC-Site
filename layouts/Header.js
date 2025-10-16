@@ -713,6 +713,7 @@ const Header1 = ({ single, menu }) => {
                     src="assets/img/logo/white-logo.svg"
                     alt="logo-img"
                     className="logo-1"
+                    style={{width:"100%"}}
                   />
                 </Link>
                 <Link href="/">
@@ -720,6 +721,7 @@ const Header1 = ({ single, menu }) => {
                     src="assets/img/logo/black-logo.svg"
                     alt="logo-img"
                     className="logo-2"
+                    style={{width:"100%"}}
                   />
                 </Link>
               </div>
@@ -781,7 +783,7 @@ const Header2 = ({ single }) => {
             <div className="header-main">
               <div className="sticky-logo">
                 <Link href="/">
-                  <img src="assets/img/logo/black-logo.svg" alt="logo-img" />
+                  <img src="assets/img/logo/black-logo.svg" style={{width:"100%"}} alt="logo-img" />
                 </Link>
               </div>
               <div className="header-left">
@@ -838,7 +840,7 @@ const Header3 = ({ single }) => {
 
               <div className="sticky-logo">
                 <Link href="/">
-                  <img src="assets/img/logo/black-logo.svg" alt="logo-img" />
+                  <img src="assets/img/logo/black-logo.svg" style={{width:"100%"}} alt="logo-img" />
                 </Link>
               </div>
               <div className="header-left">
@@ -904,10 +906,10 @@ const Header5 = ({ single }) => {
             <div className="header-main">
               <div className="sticky-logo">
                 <Link href="/" className="logo-1">
-                  <img src="assets/img/logo/white-logo.svg" alt="logo-img" />
+                  <img src="assets/img/logo/white-logo.svg" style={{width:"100%"}} alt="logo-img" />
                 </Link>
                 <Link href="/" className="logo-2">
-                  <img src="assets/img/logo/black-logo.svg" alt="logo-img" />
+                  <img src="assets/img/logo/black-logo.svg" style={{width:"100%"}} alt="logo-img" />
                 </Link>
               </div>
               <div className="header-left">

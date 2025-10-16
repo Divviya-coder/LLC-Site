@@ -15,14 +15,15 @@ export const TestimonialSlider1 = () => {
             </p>
             <div className="author-items">
               <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
+                <img src="assets/img/dummypartner.jpeg" alt="author-img" />
                 <div className="content">
                   <h5>
-                    Jonathan K. Pierce, <span>Director at BluePeak Analytics      </span>
+                    {/* Jonathan K. Pierce,  */}
+                    <span>Director at BluePeak Analytics      </span>
                   </h5>
                 </div>
               </div>
-              <img src="assets/img/testimonial/icon.png" alt="img" />
+              {/* <img src="assets/img/testimonial/icon.png" alt="img" /> */}
             </div>
           </div>
         </SwiperSlide>
@@ -33,14 +34,15 @@ export const TestimonialSlider1 = () => {
             </p>
             <div className="author-items">
               <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
+                <img src="assets/img/dummypartner.jpeg" alt="author-img" />
                 <div className="content">
                   <h5>
-                    Alicia R. Monroe, <span>VP of Strategy at AccuraTech Solutions</span>
+                    {/* Alicia R. Monroe,  */}
+                    <span>VP of Strategy at AccuraTech Solutions</span>
                   </h5>
                 </div>
               </div>
-              <img src="assets/img/testimonial/icon.png" alt="img" />
+              {/* <img src="assets/img/dummypartner.jpeg" alt="img" /> */}
             </div>
           </div>
         </SwiperSlide>
@@ -63,17 +65,18 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
         <SwiperSlide className="swiper-slide">
           <div className={`testimonial-card-items ${style}`}>
             <div className="testimonial-image">
-              <img src="assets/img/client-2.png" alt="img" />
+              <img src="assets/img/dummypartner.jpeg" alt="img" />
             </div>
             <div className="testimonial-content">
-              {/* <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
+              <div className="author-image">
+                {/* <img src="assets/img/testimonial/client.png" alt="author-img" /> */}
                 <div className="content">
                   <h5>
-                    Evelyn R. Carter <span>/CO Founder</span>
+                    {/* Evelyn R. Carter  */}
+                    <span>CO Founder</span>
                   </h5>
                 </div>
-              </div> */}
+              </div>
               <p>
                 Keystone Strategic Consultants completely transformed our business operations. Their strategic insights and process optimization helped us cut costs by 25% while increasing efficiency across departments.
               </p>
@@ -84,17 +87,18 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
         <SwiperSlide className="swiper-slide">
           <div className={`testimonial-card-items ${style}`}>
             <div className="testimonial-image">
-              <img src="assets/img/client-3.png" alt="img" />
+              <img src="assets/img/dummypartner.jpeg" alt="img" />
             </div>
             <div className="testimonial-content">
-              {/* <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
+              <div className="author-image">
+                {/* <img src="assets/img/testimonial/client.png" alt="author-img" /> */}
                 <div className="content">
                   <h5>
-                    Robin T. Peckham<span>/ Developer</span>
+                    {/* Robin T. Peckham */}
+                    <span>Developer</span>
                   </h5>
                 </div>
-              </div> */}
+              </div>
               <p>
                 The Keystone team guided us through a complex expansion phase. Their market analysis and financial strategy ensured we scaled sustainably and profitably.
               </p>
@@ -105,17 +109,18 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
         <SwiperSlide className="swiper-slide">
           <div className={`testimonial-card-items ${style}`}>
             <div className="testimonial-image">
-              <img src="assets/img/client-2.png" alt="img" />
+              <img src="assets/img/dummypartner.jpeg" alt="img" />
             </div>
             <div className="testimonial-content">
-              {/* <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
+              <div className="author-image">
+                {/* <img src="assets/img/testimonial/client.png" alt="author-img" /> */}
                 <div className="content">
                   <h5>
-                    Michael M. Griffin <span>/CO Founder</span>
+                    {/* Michael M. Griffin  */}
+                    <span>CO Founder</span>
                   </h5>
                 </div>
-              </div> */}
+              </div>
               <p>
                 Working with Keystone was a turning point for us. Their leadership development and organizational strategy empowered our managers and boosted productivity company-wide.
 
@@ -127,17 +132,18 @@ export const TestimonialSlider2 = ({ style = "style-1" }) => {
         <SwiperSlide className="swiper-slide">
           <div className={`testimonial-card-items ${style}`}>
             <div className="testimonial-image">
-              <img src="assets/img/client-3.png" alt="img" />
+              <img src="assets/img/dummypartner.jpeg" alt="img" />
             </div>
             <div className="testimonial-content">
-              {/* <div className="author-image">
-                <img src="assets/img/testimonial/client.png" alt="author-img" />
+              <div className="author-image">
+                {/* <img src="assets/img/dummypartner.jpeg" alt="author-img" /> */}
                 <div className="content">
                   <h5>
-                    Robin T. Peckham<span>/ Developer</span>
+                    {/* Robin T. Peckham */}
+                    <span>Developer</span>
                   </h5>
                 </div>
-              </div> */}
+              </div>
               <p>
                 Their approach to risk management and long-term strategy gave us clarity and confidence in our business direction. Keystone is a true strategic partner.
               </p>
