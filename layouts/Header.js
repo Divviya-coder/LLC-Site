@@ -2,6 +2,7 @@
 import { nextUtility } from "@/utility";
 import Link from "next/link";
 import { Fragment, useEffect, useState } from "react";
+import useDeviceType from "./useDeviceType";
 const Header = ({ header, single }) => {
   useEffect(() => {
     nextUtility.stickyNav();
@@ -23,6 +24,7 @@ const Header = ({ header, single }) => {
   }
 };
 export default Header;
+
 
 const Menu = ({ single, menu }) => {
   const singleMenu = menu
@@ -410,14 +412,12 @@ const MobileMenu = ({ single, menu }) => {
     setMultiMenu(multiMenu === value ? "" : value),
     multiMenuActiveLi = (value) =>
       value === multiMenu ? { display: "block" } : { display: "none" };
-  const singleMenu = menu
-    ? menu
-    : [
-      { id: 1, href: "about", title: "About" },
-      { id: 2, href: "services", title: "Services" },
-      { id: 3, href: "team", title: "Team" },
-      { id: 4, href: "blog", title: "Blog" },
-    ];
+  const singleMenu = 
+[{ id: 1, href: "who We Are", title: "whoweare" },
+    { id: 2, href: "What We Do", title: "whatwedo" },
+    { id: 3, href: "Our Industries", title: "ourindustries" },
+    { id: 4, href: "Our Partners", title: "ourpartners" },
+    { id: 5, href: "Contact", title: "contact" }]
   return (
     <div className="mobile-menu fix mb-3 mean-container d-block d-xl-none">
       <div className="mean-bar">
@@ -432,14 +432,14 @@ const MobileMenu = ({ single, menu }) => {
           <ul>
             <li className="has-dropdown active d-xl-none">
               <a
-                href="#"
+                href="/"
                 className="border-none"
                 onClick={() => activeMenuSet("home")}
               >
                 Home
-                <i className="fas fa-angle-down" />
+                {/* <i className="fas fa-angle-down" /> */}
               </a>
-              <ul className="submenu" style={activeLi("home")}>
+              {/* <ul className="submenu" style={activeLi("home")}>
                 <li>
                   <Link href="/">Home 01</Link>
                 </li>
@@ -458,14 +458,14 @@ const MobileMenu = ({ single, menu }) => {
                 <li>
                   <Link href="index-6">Home 06</Link>
                 </li>
-              </ul>
-              <a
+              </ul> */}
+              {/* <a
                 className="mean-expand"
                 href="#"
                 onClick={() => activeMenuSet("home")}
               >
                 <i className="far fa-plus" />
-              </a>
+              </a> */}
             </li>
             {single ? (
               <Fragment>
@@ -478,10 +478,22 @@ const MobileMenu = ({ single, menu }) => {
             ) : (
               <Fragment>
                 <li>
-                  <Link href="about">About</Link>
+                  <Link href="whoweare">Who We Are</Link>
                 </li>
-                <li>
-                  <a href="#" onClick={() => activeMenuSet("Services")}>
+                                <li>
+                  <Link href="whatwedo">What We Do</Link>
+                </li>
+                                <li>
+                  <Link href="ourindustries">Our Industries</Link>
+                </li>
+                                                <li>
+                  <Link href="ourpartners">Our Partners</Link>
+                </li>
+                                                                <li>
+                  <Link href="contact">Contact</Link>
+                </li>
+                {/* <li>
+                  <a href="#" onClick={() => activeMenuSet("")}>
                     Services
                     <i className="fas fa-angle-down" />
                   </a>
@@ -500,8 +512,8 @@ const MobileMenu = ({ single, menu }) => {
                   >
                     <i className="far fa-plus" />
                   </a>
-                </li>
-                <li className="has-dropdown">
+                </li> */}
+                {/* <li className="has-dropdown">
                   <a href="#" onClick={() => activeMenuSet("Pages")}>
                     Pages
                     <i className="fas fa-angle-down" />
@@ -590,9 +602,9 @@ const MobileMenu = ({ single, menu }) => {
                 </li>
                 <li className="mean-last">
                   <Link href="contact">Contact</Link>
-                </li>
+                </li> */}
               </Fragment>
-            )}
+            )} 
           </ul>
         </nav>
       </div>
@@ -601,6 +613,8 @@ const MobileMenu = ({ single, menu }) => {
 };
 
 const Sidebar = ({ sidebarToggle, close, menu, single }) => {
+  
+
   return (
     <Fragment>
       <div className="fix-area">
@@ -613,16 +627,18 @@ const Sidebar = ({ sidebarToggle, close, menu, single }) => {
                     <img src="assets/img/logo/black-logo.svg" alt="logo-img" />
                   </Link>
                 </div>
+
                 <div className="offcanvas__close" onClick={() => close()}>
                   <button>
                     <i className="fas fa-times" />
                   </button>
                 </div>
+                
               </div>
               <div className="mobile-menu fix mb-3">
                 <MobileMenu single={single} menu={menu} />
               </div>
-              <p className="text d-none d-xl-block mb-5">
+              {/* <p className="text d-none d-xl-block mb-5">
                 Nullam dignissim, ante scelerisque the is euismod fermentum odio
                 sem semper the is erat, a feugiat leo urna eget eros. Duis
                 Aenean a imperdiet risus.
@@ -686,7 +702,7 @@ const Sidebar = ({ sidebarToggle, close, menu, single }) => {
                     <i className="fab fa-linkedin-in" />
                   </a>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
@@ -768,13 +784,15 @@ const Header1 = ({ single, menu }) => {
 
 const Header2 = ({ single }) => {
   const singleMenu = [
-    { id: 1, href: "about", title: "About" },
-    { id: 2, href: "services", title: "Services" },
-    { id: 3, href: "projects", title: "Projects" },
-    { id: 4, href: "testimonial", title: "Testimonial" },
+    { id: 1, href: "who We Are", title: "whoweare" },
+    { id: 2, href: "What We Do", title: "whatwedo" },
+    { id: 3, href: "Our Industries", title: "ourindustries" },
+    { id: 4, href: "Our Partners", title: "ourpartners" },
+    { id: 5, href: "Contact", title: "contact" },
   ];
 
   const [sidebarToggle, setSidebarToggle] = useState(false);
+  const deviceType = useDeviceType();
   return (
     <Fragment>
       <header id="header-sticky" className="header-2">
@@ -793,12 +811,15 @@ const Header2 = ({ single }) => {
                   </div>
                 </div>
               </div>
-              {/* <div className="header-right d-flex justify-content-end align-items-center">
-                <div className="header-button">
+              <div className="header-right d-flex justify-content-end align-items-center">
+                {/* <div className="header-button">
                   <Link href="contact" className="theme-btn bg-2">
                     Get A Quote
                   </Link>
-                </div>
+                </div> */}
+                {
+                  deviceType!=='desktop'&&
+                
                 <div className="header__hamburger d-xl-none my-auto">
                   <div
                     className="sidebar__toggle"
@@ -807,7 +828,8 @@ const Header2 = ({ single }) => {
                     <i className="far fa-bars" />
                   </div>
                 </div>
-              </div> */}
+}
+              </div>
             </div>
           </div>
         </div>
@@ -944,6 +966,7 @@ const Header5 = ({ single }) => {
 };
 
 const Header6 = ({ single }) => {
+  const deviceType = useDeviceType();
   const [sidebarToggle, setSidebarToggle] = useState(false);
   const singleMenu = [
     { id: 2, href: "services", title: "Services" },
@@ -968,12 +991,14 @@ const Header6 = ({ single }) => {
                   </div>
                 </div>
               </div>
-              {/* <div className="header-right d-flex justify-content-end align-items-center">
-                <div className="header-button">
+              <div className="header-right d-flex justify-content-end align-items-center">
+                {/* <div className="header-button">
                   <Link href="contact" className="theme-btn bg-2">
                     Get A Quote
                   </Link>
-                </div>
+                </div> */}
+               {
+                deviceType!=='desktop'&&
                 <div className="header__hamburger d-xl-block my-auto">
                   <div
                     className="sidebar__toggle"
@@ -982,7 +1007,8 @@ const Header6 = ({ single }) => {
                     <i className="far fa-bars" />
                   </div>
                 </div>
-              </div> */}
+}
+              </div>
             </div>
           </div>
         </div>
